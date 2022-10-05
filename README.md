@@ -1,4 +1,4 @@
-# DIGITAL-IMAGING-INTERPRETATION
+# DIGITAL-IMAGING-INTERPRETATION (Some Examples and Counting the number of objects on the image )
  A large variety of birds make the migration journey, and bird migration is one of the astonishments of the natural world. In this respect, you are given an image acquired during the bird migration in the South Pole of the Earth (birdmigration.jpg).
  
 ### 1. Split the given RGB image into 3 different grayscale images, and save the outputs in “tif” format.
